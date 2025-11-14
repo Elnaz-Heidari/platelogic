@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor junk
+.vscode/
+.idea/
+
+# Raw data (Kaggle original)
+data/raw/
+
+# Model artifacts (future)
+models/
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# System files
+.DS_Store
+Thumbs.db
