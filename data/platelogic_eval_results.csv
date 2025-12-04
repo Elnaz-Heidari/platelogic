@@ -1,0 +1,5093 @@
+id,title,main_protein,ingredients,base_output,base_keeps_main_protein,base_high_carb_violation,base_mentions_hp_lc,base_pass_all_constraints,lora_output,lora_keeps_main_protein,lora_high_carb_violation,lora_mentions_hp_lc,lora_pass_all_constraints
+328830,mozzarella chicken bake,chicken,chicken breasts; flour; butter; salt and pepper; mushrooms; mozzarella cheese,"Title: Mzzarella Chicken Bake
+
+Ingredients:
+
+- chicken breasts
+- flour
+- butter
+- salt
+- pepper
+- mushrooms
+- mozzarella cheese
+- Greek yogurt
+- low-carb alternative
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps (Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+1. In a sauce, combine ingredients for the sauce. Add chicken breasts and whisk. Add salt and pepper. Mix well. Add to the sauce. In a low-carb alternative, replace the Greek yogurt with low-carb alternatives such as low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low-carb alternative, low",True,True,True,False,"Title: mozzarella chicken bake
+
+Ingredients:
+- chicken breasts
+- fresh mozzarella cheese
+- olive oil
+- lemon juice
+- fresh basil
+- ground cumin
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+
+Response:
+Title: mozzarella chicken bake
+
+Ingredients:
+- chicken breasts
+- fresh mozzarella cheese
+- olive oil
+- lemon juice
+- fresh basil
+- ground cumin
+- salt and pepper
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+
+Response:
+Title: mozzarella chicken bake
+
+Ingredients:
+- chicken breasts
+- fresh mozzarella cheese
+- olive oil
+- lemon juice
+- fresh basil
+- ground cumin
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb",True,True,True,False
+354640,french gorton spread,pork,ground pork; onion; cinnamon; clove; salt and pepper,"Title: French Gorton Spread
+
+Ingredients:
+
+- 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2",False,False,False,False,"Title: French Grown Torn Spread
+
+Ingredients:
+- ground pork
+- fresh garlic cloves
+- ground ginger
+- lemon juice
+- olive oil
+- unsalted butter
+- chopped fresh parsley
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response:
+Title: French Grown Torn Spread
+
+Ingredients:
+- ground pork
+- fresh garlic cloves
+- ground ginger
+- lemon juice
+- olive oil
+- unsalted butter
+- chopped fresh parsley
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).",True,True,True,False
+54310,mexican dinner,beef,lean ground beef; rotel tomatoes; picante sauce; sharp cheddar cheese; tortilla chips; onion; chopped tomato; lettuce; guacamole; cheese; salsa; sour cream; black olives,"Title: Mexican dinner
+
+Ingredients:
+
+-瘦 ground beef
+- RoT西红柿
+- Picante sauce
+- Sharp cheddar cheese
+- tortilla chips
+- onions
+- chopped tomato
+- garlic
+- guacamole
+- cheese
+- salsa
+- sour cream
+- black olives
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+菜 Preparation:
+1. In a small bowl, mix together ingredients until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until until",True,True,True,False,"Title: Mexican chicken stir-fry with fresh cilantro and lime juice
+Ingredients:
+- lean ground beef
+- avocado
+- green chilies
+- salsa
+- fresh cilantro
+- lime juice
+- olive oil
+- ground cumin
+- ground black beans
+- ground beef
+- ground chila cheese
+- diced tomatoes
+- fresh cilantro
+- lime juice
+- chili powder
+- ground ground beef
+- ground black beans
+- ground ground cumin
+- ground chili pepper
+- fresh cilantro
+- lime juice
+- olive oil
+- ground ground cumin
+- ground ground black beans
+- ground ground chila cheese
+- ground ground beef
+- ground ground cumin
+- ground ground chili pepper
+- fresh cilantro
+- lime juice
+- ground ground cumin
+- ground ground chili pepper
+- ground ground black beans
+- ground ground chila cheese
+- ground ground ground beef
+- ground ground cumin
+- ground ground chili pepper
+- fresh cilantro
+- lime juice
+- ground ground cumin
+- ground ground chili pepper
+- ground ground chili pepper
+- ground ground chili pepper
+- ground ground chili pepper
+- ground ground",True,False,False,True
+211021,chicken in a red sweet pepper sauce,chicken,chicken meat; onions; gingerroot; garlic cloves; blanched slivered almonds; red sweet peppers; ground cumin; ground coriander; ground turmeric; cayenne pepper; salt; vegetable oil; water; lemon juice; ground black pepper,"Title: Chicken in a Red Sweet Pepper Sauce
+
+Ingredients:
+
+- chicken meat
+- onions
+- ginger root
+- garlic cloves
+- red sweet peppers
+- ground cumin
+- ground coriander
+- ground tur spices
+- cayenne pepper
+- salt
+- vegetable oil
+- water
+- lemon juice
+- ground black pepper
+- Greek yogurt
+- cottage cheese
+- low乳蛋白 alternative
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+- low乳蛋白 substitute
+-",True,False,False,True,"Title: Chicken in a Red Sweet Pepper Sauce
+
+Ingredients:
+- chicken meat
+- onion
+- red sweet pepper
+- garlic cloves
+- ground cumin
+- ground coriander
+- ground turmeric
+- lemon juice
+- white wine
+- olive oil
+- ground black pepper
+- fresh cilantro
+- ground cumin
+- ground coriander
+- ground cumin
+- ground coriander
+- red sweet pepper
+- ground cumin
+- lemon juice
+- white wine
+- fresh cilantro
+- ground cumin
+- ground coriander
+- ground cumin
+- ground cumin
+- ground coriander
+- red sweet pepper
+- ground cumin
+- lemon juice
+- white wine
+- fresh cilantro
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- red sweet pepper
+- ground cumin
+- lemon juice
+- white wine
+- fresh cilantro
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- red sweet pepper
+- ground cumin
+- lemon juice
+- white wine
+- fresh cilantro
+- ground cumin",True,False,False,True
+22156,chicken and sauerkraut,chicken,boneless skinless chicken breasts; sauerkraut; swiss cheese; reduced-fat thousand island dressing,"Title: Chicken and Sausk
+
+Ingredients:
+
+- 1 boneless chicken
+- 2 cloves garlic minced
+ minced
+ minced
+ garlic minced
+ minced
+ garlic minced
+ minced
+ garlic minced
+ minced
+ garlic minced
+ minced
+ minced
+ garlic minced
+ minced
+ minced
+ garlic minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced
+ minced",True,False,False,True,"Title: Chicken and Sauerkraut
+
+Ingredients:
+- boneless skinless chicken breasts
+- sautrekots
+- lemon juice
+- unsalted butter
+- fresh thyme
+- unsalted sour cream
+- low-carb mayonnaise
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use low-carb substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response:
+Title: Chicken and Sauserkraut
+
+Ingredients:
+- boneless skinless chicken breasts
+- sautrekots
+- lemon juice
+- unsalted butter
+- low-carb mayonnaise
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use low-carb substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).",True,True,True,False
+38197,zucchini and chicken casserole,chicken,chicken breasts; zucchini; cream of chicken soup; milk; miracle whip; cheddar cheese; lemon juice; breadcrumbs; butter,"Title: Zucchini and Chicken Casserole
+
+Ingredients:
+
+- chicken breasts
+- zucchini
+- cream of chicken soup
+- milk
+- miracle whip
+- cheddar cheese
+- lemon juice
+- bread
+-做法
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Response:
+Title: Zucchini and Chicken Casserole
+
+Ingredients:
+
+- chicken breasts
+- zucchini
+- cream of chicken soup
+- milk
+- miracle whip
+- cheddar cheese
+- lemon juice
+- bread
+-做法
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.))
+
+
+Response:
+Title: Zucchini",True,True,True,False,"Title: zucchini and chicken casserole with lemon juice
+
+Ingredients:
+- chicken breasts
+- zucchini
+- cream of chicken soup
+- milk
+- lemon juice
+- olive oil
+- fresh herbs
+- ground cheddar cheese
+- lemon juice
+- sour cream
+- chopped fresh parsley
+- unsalted butter
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Choose high-protein, low-carb options.
+
+Response:
+Title: zucchini and chicken casserole with lemon juice
+
+Ingredients:
+- chicken breasts
+- zucchini
+- cream of chicken soup
+- milk
+- lemon juice
+- olive oil
+- fresh herbs
+- ground cheddar cheese
+- lemon juice
+- sour cream
+- chopped fresh parsley
+- unsalted butter
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, b",True,True,True,False
+355346,fully loaded cajun chicken burgers,chicken,skinless chicken breasts; olive oil; smoked bacon; avocados; ciabatta rolls; cheese; baby spinach leaves; mayonnaise; ground cumin; ground coriander; paprika,Title:,False,False,False,False,"Title: Cajun chicken burger with avocado slices
+
+Ingredients:
+- boneless chicken breasts
+- fresh cilantro
+- avocado slices
+- mayonnaise
+- ground cumin
+- ground coriander
+- lemon juice
+- olive oil
+- fresh cilantro
+- mayonnaise
+- ground cumin
+- ground coriander
+- sour cream
+
+Goal:
+Write a version of this recipe that uses lean protein, avoid added sugars, avoid starchy carbs, and prefer high-protein swaps.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, ground beef, chicken broth, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken wings, chicken",True,True,True,False
+187283,crustless ham and cheese quiche,egg,cooked ham; frozen broccoli cuts; monterey jack pepper cheese; cheddar cheese; eggs; milk; salt; pepper,"Title: Crutched Ham and Cheese Quiche
+
+Ingredients:
+
+- Cooked ham
+- Frozen broccoli cuts
+- Monterey Jack pepper cheese
+- Cheddar cheese
+-鸡蛋
+- Milk
+- Salt
+- Pepper
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Ingredients:
+
+- Cooked ham
+- frozen broccoli cuts
+- Monterey Jack pepper cheese
+- Cheddar cheese
+-鸡蛋
+- Milk
+- Salt
+- pepper
+
+ goals:
+- Re-write this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Final Recipe: Crutched Ham and Cheese Quiche
+
+Ingredients:
+
+- Cooked ham",False,True,True,False,"Title: crustless ham and cheese quiche with fresh broccoli
+
+Ingredients:
+- cooked ham
+- frozen broccoli cubes
+- lemon juice
+- unsalted butter
+- fresh mozzarella cheese
+- cheddar cheese
+- fresh mushrooms
+- fresh tomatoes
+- olive oil
+- fresh lemon juice
+- chopped fresh parsley
+- salt
+
+Goal:
+Write a version of the ham and cheese quiche that uses lean protein, avoid added sugars, and avoid starchy carbs by using fresh produce and avoiding starchy carbs.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+
+Response:
+Title: crustless ham and cheese quiche with fresh broccoli
+
+Ingredients:
+- cooked ham
+- frozen broccoli cubes
+- lemon juice
+- fresh mozzarella cheese
+- fresh mushrooms
+- fresh tomatoes
+- olive oil
+- fresh parsley
+- salt
+
+Goal:
+Write a version of the ham and cheese quiche that uses lean protein, avoid added sugars, and avoid starchy carbs by using fresh produce and avoiding starchy carbs.",False,True,False,False
+53129,pork tenderloin with fennel spice,pork,pork tenderloin; mixed spice; dry white wine; unsalted butter,"Title: Pork Tinner with Fennel Spice
+
+Ingredients:
+
+-  pork tenderloin
+- mixed spices
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: pork tenderloin with fennel spice
+
+Ingredients:
+- pork tenderloin
+- fresh fennel
+- ground black pepper
+- lemon juice
+- olive oil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Response:
+Title: pork tenderloin with fennel spice
+
+Ingredients:
+- pork tenderloin
+- fresh fennel
+- ground black pepper
+- lemon juice
+- olive oil
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).",True,True,True,False
+138748,red simmered beef stew,beef,vegetable oil; beef roast; water; soy sauce; cider vinegar; green onions; garlic cloves; star anise pods; fresh ginger; dry sherry; five-spice powder; cinnamon stick; salt; fresh ground black pepper; dark sesame oil,"Title: Red simmered Beef Stew
+
+Ingredients:
+
+- Vegetable oil
+- beef roast
+- water
+- soy sauce
+- apple juice
+- cider vinegar
+- green onions
+- garlic cloves
+- dried thicken
+- spices
+- honey
+-五 spice powder
+- cinnamon stick
+- salt
+- fresh ground black pepper
+- low-carb protein
+- high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor by adding lean protein, avoiding added sugars, and choosing high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+- Use low-carb protein as a substitute for sugar.
+
+Ingredients:
+- 1 vegetable oil
+- 1/2 beef roast
+- 2 cups water
+- 1 tablespoon soy sauce
+- Apple juice
+-醋
+- lemon
+- garlic cloves",True,True,True,False,"Title: Red Simmered Beef Stew
+
+Ingredients:
+- boneless beef roast
+- low-sodium beef broth
+- unsalted butter
+- fresh ground black pepper
+- fresh rosemary
+- dried thyme
+- fresh ginger
+- fresh garlic cloves
+- fresh lemon juice
+- red wine
+- apple cider vinegar
+- unsalted butter
+- olive oil
+- fresh ground black pepper
+- fresh ground cumin
+- fresh sage
+- fresh oarsen
+- fresh ground black pepper
+- fresh ground chives
+- fresh ground cayenne
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use lean protein sources such as chicken, beef, pork, beef roast, or lean beef in place of regular ground beef.
+- Use low-carb sides and avoid starchy carbs in this recipe.
+
+Write the improved version steps.
+
+Response:
+Title: Red Simmered Beef Stew
+
+Ingredients:
+- boneless beef roast
+- low-sodium beef broth
+- unsalted butter
+- fresh ground black pepper
+- fresh rosemary",True,True,True,False
+308422,real texas chili  chili con carne,beef,beef chuck; bacon drippings; dried ancho peppers; cold water; oregano; cumin seed; salt; cayenne; garlic cloves; masa harina,"Title: Texas chili with meat
+
+Ingredients:
+- beef
+- chicken
+- ground
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+- diced
+-",True,False,False,True,"Write the improved version of the recipe to be high-protein, low-carb, while keeping the core flavor. Avoid added sugars, avoid starchy carbs, use lean protein sources as a substitute for whole grains, and use low-carb sides.",False,True,True,False
+46665,rosemary roasted salmon,salmon,fresh rosemary; red onion; salmon fillets; lemons; olive oil; salt and pepper,"Title: Rosemary Salmon
+
+Ingredients:
+
+- 1
+- 2
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: rosemary salmon with lemon chicken
+
+Ingredients:
+- fresh rosemary
+- lemon juice
+- olive oil
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, eggs, etc.).
+
+Response:
+Title: rosemary salmon with lemon chicken
+
+Ingredients:
+- fresh rosemary
+- lemon juice
+- olive oil
+- salt and pepper
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, eggs, etc.).
+
+Response:
+Title: rosemary salmon with lemon chicken
+
+Ingredients:
+- fresh rosemary
+- lemon juice
+- olive oil
+- salt and pepper",True,True,True,False
+388215,autumn apple chops,pork,boneless pork chops; gluten-free flour; butter; onion; apple juice,"Title: Fall Apple Chips
+
+Ingredients:
+
+- 1 boneless pork chops
+- 2 cups gluten-free flour
+- 1/11 lemon juice
+- 1/11 apples juice
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11 apples vinegar
+- 1/11",True,True,False,False,"Title: fall apple chops with reduced sugar
+
+Ingredients:
+- boneless pork chops
+- apple juice
+- unsalted butter
+- ground ginger
+- fresh apples
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns).
+
+Response:
+Title: fall apple chops with reduced sugar
+
+Ingredients:
+- boneless pork chops
+- apple juice
+- unsalted butter
+- ground ginger
+- fresh apples
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns).",True,True,True,False
+351659,quick and easy chicken liver pate,chicken,chicken liver; butter; onion; salt; pepper; hard-boiled egg,"Title: quick and easy chicken liver pate
+
+Ingredients:
+- chicken liver
+- chicken
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: quick and easy chicken liver pate
+
+Ingredients:
+- chicken liver
+- butter
+- lemon juice
+- salt
+- fresh ground black pepper
+- chopped fresh herbs
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, eggs, etc.).
+
+Write the improved version of the chicken liver pate.",True,True,True,False
+290743,cajun salmon,salmon,salmon; cajun seasoning; olive oil,"Title: Cajun Salmon
+
+Ingredients:
+
+- salmon
+- cajun seasoning
+- olive oil
+
+Goal:
+Rewritten this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+Title: Cajun Salmon
+
+Ingredients:
+
+- salmon
+- cajun seasoning
+- olive oil
+
+Goal:
+Rewritten this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.))
+
+
+Instructions:
+Title: Cajun Salmon
+
+Ingredients:
+
+- salmon
+- cajun seasoning
+- olive oil
+
+ goals:
+Rewritten this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid",True,True,True,False,"Title: cajun salmon with cajun seasoning
+
+Ingredients:
+- salmon
+- cajun seasoning
+- olive oil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Response:
+Title: cajun salmon with cajun seasoning
+
+Ingredients:
+- salmon
+- cajun seasoning
+- olive oil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).",True,True,True,False
+156712,maui style ahi poke,tuna,"fresh ahi tuna; soy sauce; green onion; sesame oil; jalapeno pepper; lime, juice of; sesame seeds; macadamia nuts; sweet chili sauce","Title: Maui Style Ahi Ppoke
+
+Ingredients:
+
+- Fresh ahi tuna
+- soy sauce
+- Green onions
+-芝麻
+- lemon
+- salt
+- ground black pepper
+-jalami
+- garlic
+- honey
+- paprika
+- maple syrup
+- sweet chili sauce
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Final Recipe:
+Title: Maui Style Ahi Ppoke
+
+Ingredients:
+
+- Fresh ahi tuna
+- soy sauce
+- Green onions
+-芝麻
+- lemon
+- Salt
+- ground black pepper
+-jalami
+- garlic
+- honey
+- paprika
+- maple syrup
+- sweet chili sauce
+- almond yogurt
+- substitute for Greek yogurt, cottage cheese, leg beans in moderation, etc. 
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.",True,True,True,False,"Title: Ahi poke with fresh ahi tuna, soy sauce, green onions, salt, lime, and black beans
+
+Ingredients:
+- fresh ahi tuna
+- soy sauce
+- green onions
+- salt
+- lime juice
+- ground cumin
+- black beans
+- red chilies
+- fresh cilantro
+- ginger
+- lemon juice
+- soy sauce
+
+Goal:
+Write a modified version of the main dish that uses lean protein, avoid added sugars, avoid starchy carbs, and prefer high-protein swaps.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Goal:
+Write a modified version of the main dish that uses lean protein, avoid added sugars, avoid starchy carbs, and prefer high-protein swaps.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Goal:",True,True,True,False
+217344,salmon stuffed w spinach onion   cheese,salmon,vegetable oil; onion; spinach; garlic; basil; oregano; cream cheese; ricotta cheese; salt; black pepper; salmon fillets; seasoned bread crumbs; parmesan cheese; olive oil,"Title: Salmon Stuffed with Spin蔬菜
+
+Ingredients:
+
+- 1
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+- 2
+-",True,False,False,True,"Title: salmon with spinach on egg white
+
+Ingredients:
+- chicken breast
+- fresh spinach
+- lemon juice
+- olive oil
+- ground cumin
+- salt
+- unsalted butter
+- fresh cilantro
+- fresh basil
+- olive oil
+- sour cream
+- cream cheese
+- lemon juice
+- chopped onions
+- fresh spinach
+- feta cheese
+- whole wheat bread
+- fresh spinach
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this recipe.
+- Choose high-protein, low-carb options.
+
+Response:
+Title: salmon with spinach on egg white
+
+Ingredients:
+- chicken breast
+- fresh spinach
+- lemon juice
+- olive oil
+- ground cumin
+- fresh basil
+- whole wheat bread
+- fresh spinach
+- lemon juice
+- olive oil
+- fresh cilantro
+- whole wheat bread
+- fresh spinach
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this recipe.
+- Choose high-protein",True,True,True,False
+229953,roasted cod fillets with a garlic prosciutto topping,,prosciutto; flat leaf parsley; fresh basil; garlic clove; lemon zest; fresh ground black pepper; olive oil; cod fish fillets; salt; dry white wine,"Title: Roasted Cod Fillets with Garlic Prosciutto Topping
+
+Ingredients:
+
+Prosciut
+Flap叶
+S
+ garlic cloves
+L
+ lemon
+Z
+D
+P
+S
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Protein
+Pro",True,False,False,True,"Title: Roasted Cod Fillets with Garlic Prosciutto Topping
+
+Ingredients:
+- fresh skinless chicken breasts
+- fresh parsley
+- fresh lemon juice
+- olive oil
+- fresh garlic cloves
+- olive oil
+- unsalted butter
+- fresh dill
+- fresh thyme
+- fresh rosemary
+- fresh lemon zest
+- fresh ground black pepper
+- fresh ground cumin
+- fresh oregano
+- fresh lemon juice
+- fresh garlic cloves
+- fresh lemon zest
+- fresh dill
+- fresh rosemary
+- fresh thyme
+- fresh oregano
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Write the improved version of the recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, b",True,True,True,False
+83136,sedona sole,chicken,flour; salt and pepper; sole fillets; olive oil; butter; shallots; fresh lemon juice; ripe olives; sun-dried tomatoes; chicken broth; capers; fresh parsley,"Title: Sedona 
+
+Ingredients:
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",False,False,False,False,"Title: Sonea sole
+
+Ingredients:
+- ground beef
+- unsalted butter
+- fresh lemon juice
+- whole cloves
+- fresh cilantro
+- fresh basil
+- fresh oregano
+- ground cumin
+- ground black pepper
+- unsalted butter
+- fresh parsley
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, buns, etc.).
+- Use lean protein sources like lean beef, chicken breast, boneless chicken breasts, or lean ground turkey, lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean lean",True,True,True,False
+414514,grilled chicken pepper jack with creamy sauce,chicken,boneless skinless chicken breasts; marinade; water; oil; red bell pepper; avocado; monterey jack pepper cheese; sour cream; dried chipotle powder; cilantro; salt and pepper,"Title: Grilled Chicken Pilihan With Cream Sauce
+
+Ingredients:
+
+- 1 boneless chicken breasts
+- 2ml minced garlic
+- 1/2ml minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced minced",True,False,False,True,"Title: Grilled chicken pepper jack with creamy sauce
+
+Ingredients:
+- boneless skinless chicken breasts
+- lemon juice
+- olive oil
+- unsalted butter
+- garlic cloves
+- fresh chives
+- ground black pepper
+- fresh cilantro
+- sour cream
+- diced jay
+- unsalted butter
+- low-carb soy sauce
+- low-carb mayonnaise
+- chopped fresh cilantro
+- sour cream
+
+Goal:
+Write a version of this recipe that uses lean protein, avoid added sugars, and avoid starchy carbs.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, buns, etc.).
+
+Write a version of this recipe that uses lean protein, avoid added sugars, and avoid starchy carbs.",True,True,True,False
+392325,oven fried garlic chicken,chicken,breadcrumbs; parmesan cheese; fresh parsley; salt; fresh ground pepper; butter; garlic cloves; chicken,Title:,False,False,False,False,"Title: oven fried garlic chicken
+
+Ingredients:
+- olive oil
+- lemon juice
+- fresh parsley
+- boneless chicken breasts
+- minced garlic cloves
+- fresh basil leaves
+- salt
+- unsalted butter
+- chopped fresh parsley
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+
+Response:
+Title: oven fried garlic chicken
+
+Ingredients:
+- olive oil
+- lemon juice
+- fresh parsley
+- boneless chicken breasts
+- minced garlic cloves
+- fresh basil leaves
+- salt
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+
+Response:
+Title: oven fried garlic chicken
+
+Ingredients:
+- olive oil
+- lemon juice
+- fresh parsley
+- boneless chicken breasts
+- minced garlic cloves
+- fresh basil leaves
+- salt
+
+Goal:
+Rewrite this recipe to be high",True,True,True,False
+351527,athenian chicken and sauce,chicken,boneless skinless chicken breasts; extra virgin olive oil; fresh onion; green bell pepper; garlic cloves; reduced-sodium fat-free chicken broth; fresh lemon juice; lemon peel; ground oregano; pepper; jumbo black olives,"Title: Athenian Chicken and Sauce
+
+Ingredients:
+
+- 1 boneless chicken
+- 2 medium
+- 3
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+-",True,False,False,True,"Title: a希腊 chicken and sauce
+
+Ingredients:
+- boneless skinless chicken breasts
+- fresh lemon juice
+- fresh basil
+- fresh thyme
+- olive oil
+- Greek yogurt
+- fresh lemon juice
+- olive oil
+- fresh dill
+- ground cumin
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh basil
+- fresh oregano
+- fresh lemon juice
+- fresh thyme
+- fresh oregano
+- fresh lemon juice
+- fresh oregano
+- fresh lemon juice
+- fresh oregano
+- fresh lemon juice
+- fresh oregano
+- fresh lemon juice
+-",True,False,False,True
+156879,spicy grilled shrimp and sausage skewers w creole mustard dippin,shrimp,creole mustard; orange marmalade; tabasco sauce; green onions; large shrimp; andouille sausage,Title: Sp辣糖瘦牛肉汤蔬菜汁食高蛋白低卡低碳纤维,False,False,False,False,"Title: spicy grilled shrimp and sausage skewers with creole mustard dippin
+
+Ingredients:
+- fresh lime juice
+- red onion
+- ground cloves
+- julee
+- hot sauce
+- whole wheat bread
+- sour cream
+- butter
+- olive oil
+- chopped fresh parsley
+- diced tomatoes
+- fresh basil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Response:
+Title: spicy grilled shrimp and sausage skewers with creole mustard dippin
+
+Ingredients:
+- fresh lime juice
+- red onion
+- ground cloves
+- julee
+- whole wheat bread
+- sour cream
+- butter
+- chopped fresh parsley
+- diced tomatoes
+- whole wheat bread
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage",True,True,True,False
+285451,japanese pork and ginger cabbage,pork,pork fillets; chinese cabbage; sake; sugar; japanese soy sauce; gingerroot; olive oil,"Title: Japanese Pork and Ginger cabbage
+
+Ingredients:
+
+- 1 pork filth
+- 2 Chinese cabbage
+- 1 新粉
+- 1/2量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量量",True,False,False,True,"Title: Japanese pork and ginger cabbage
+
+Ingredients:
+- pork fillets
+- Chinese cabbage
+- sake
+- sweet soy sauce
+- gingerroot
+- fresh cilantro
+- soy sauce
+- honey
+- ground ginger
+- unsalted butter
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response:
+Title: Japanese pork and ginger cabbage
+
+Ingredients:
+- pork fillets
+- Chinese cabbage
+- soy sauce
+- sweet soy sauce
+- gingerroot
+- fresh cilantro
+- soy sauce
+- honey
+- unsalted butter
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response",True,True,True,False
+274784,holly s bourbon baked ham,ham,smoked ham; light brown sugar; bourbon whiskey; water; fresh ground black pepper; dijon-style mustard,"Title: holly s bourbon baked ham
+
+Ingredients:
+
+- smoked ham
+- light brown sugar
+- bourbon whiskey
+- water
+- fresh ground black pepper
+- dijon-style mustard
+- low-carb protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns, bread, pasta, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato, tomato",True,True,True,False,"Title: holly s bourbon baked ham
+
+Ingredients:
+- smoked ham
+- light brown sugar
+- bourbon whiskey
+- water
+- fresh ground black pepper
+- dijon-style mustard
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread, bread,",True,True,True,False
+180340,poached salmon with green peppercorn  ginger and orange sauce,salmon,water; dry white wine; gingerroot; black peppercorns; bay leaf; salmon fillets; sour cream; mayonnaise; dijon mustard; orange zest; fresh orange juice; green peppercorns; sugar; white wine vinegar,"Title: Po熟 Salmon with Green Peppernock Ginger茶
+
+Ingredients:
+
+- Water
+- Dry white wine
+- Ginger root
+- black pepper
+- lemon
+- ginger
+- black
+- honey
+- lemon
+- garlic
+- garlic
+- cloves
+- lemon
+- lemon
+- orange
+汁
+-蜂蜜
+- white vinegar
+- soy
+- brown
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground",True,True,False,False,"Title: poached salmon with green peppercorn  ginger and orange sauce
+
+Ingredients:
+- water
+- lemon juice
+- olive oil
+- fresh ginger
+- black pepper
+- salt
+- fresh orange juice
+- fresh oregano
+- unsalted butter
+- honey
+- lemon zest
+- fresh orange zest
+- ground cumin
+- fresh oregano
+- granulated sugar
+- lemon juice
+- brown sugar
+- fresh orange juice
+- fresh ginger
+- whole soy sauce
+- lemon juice
+- fresh oregano
+- fresh orange zest
+- dried thyme
+- fresh oregano
+- paprika
+- ground cumin
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- lemon juice
+- fresh oregano
+- fresh ginger
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano
+- fresh oregano",True,True,False,False
+17575,stewed veal in a cream and lemon sauce,chicken,veal; anchovies; fresh thyme; chicken stock; salt and pepper; butter; plain flour; heavy cream; nutmeg; lemon; lemon slice,"Title: Stew炖veal in a Cream and Lemon Sauce
+
+Ingredients:
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",False,False,False,False,"Title: Stewed veal in a cream and lemon sauce
+
+Ingredients:
+- veal
+- fresh thyme
+- lemon juice
+- unsalted butter
+- heavy cream
+- lemon zest
+- whole grain bread
+- Greek yogurt
+- lemon juice
+- ground beef
+- olive oil
+- lemon slices
+
+Goal:
+Write a modified version of the main dish to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this stewed veal in a cream and lemon sauce.
+
+Response:
+Title: Stewed veal in a cream and lemon sauce
+
+Ingredients:
+- veal
+- fresh thyme
+- lemon juice
+- unsalted butter
+- heavy cream
+- lemon zest
+- whole grain bread
+- Greek yogurt
+- lemon juice
+- ground beef
+- olive oil
+- lemon slices
+
+Goal:
+Write a modified version of the main dish to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this stewed veal in a cream and lemon sauce.
+
+Response:
+Title: Stew",False,True,True,False
+74610,mozzarella chicken w  peppers and olives,chicken,boneless skinless chicken breast halves; fresh basil; mozzarella cheese; salt; ground black pepper; olive oil; green bell peppers; chicken broth; kalamata olive,"Title: Mocha Chicken W Peppers and Olives
+
+Ingredients:
+
+- boneless skinless chicken breasts
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: mozzarella chicken with peppers and olives
+
+Ingredients:
+- boneless skinless chicken breasts
+- fresh basil
+- mozzarella cheese
+- lemon juice
+- olive oil
+- red bell peppers
+- chicken broth
+- kalamata olive
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, bread, brown sugar, etc.).
+
+Response:
+Title: mozzarella chicken with peppers and olives
+
+Ingredients:
+- boneless skinless chicken breasts
+- fresh basil
+- mozzarella cheese
+- lemon juice
+- olive oil
+- red bell peppers
+- chicken broth
+- kalamata olive
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, brown sugar, etc.).
+
+Response:
+Title: mozzarella chicken with peppers and olives",True,True,True,False
+490573,grandma o s sour cream pork chops,chicken,pork chops; salt; pepper; garlic powder; lawry's seasoned salt; all-purpose flour; olive oil; butter; cream of celery soup; sour cream; water; chicken bouillon cubes; yellow onions; green peppers,"Title: grandma o s sour cream pork chops
+
+Ingredients:
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",False,False,False,False,"Title: grandma o s sour cream pork chops with lemon juice
+
+Ingredients:
+- boneless pork chops
+- fresh lemon juice
+- unsalted butter
+- minced garlic cloves
+- lemon juice
+- sour cream
+- white wine
+- lemon juice
+- whole grain bread
+- ground beef bouillon cubes
+- diced onion
+- fresh cilantro
+- lemon juice
+- sour cream
+- heavy cream
+- chopped fresh parsley
+- low-carb sour cream
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use low-carb substitutes ( Greek yogurt, cottage cheese, chicken bouillon cubes, etc.).
+
+Response:
+Title: grandma o s sour cream pork chops with lemon juice
+
+Ingredients:
+- boneless pork chops
+- fresh lemon juice
+- whole grain bread
+- ground beef bouillon cubes
+- lemon juice
+- sour cream
+- low-carb sour cream
+- chopped fresh parsley
+- low-carb sour cream
+
+Goal:
+Write a modified version of this recipe to be high",True,True,True,False
+296861,tuscan style chicken,chicken,chicken cutlet; sea salt; pepper; extra virgin olive oil; white wine; fresh spinach; mushroom; diced tomatoes with basil oregano and garlic; fresh mozzarella cheese,"Title: Tusczan Style Chicken
+
+Ingredients:
+
+- chicken cutlet
+- boneless
+- water
+- vegetable
+- sa
+- ground
+- ground
+- ground
+- ground
+- ground
+- ground
+- Greek yogurt
+- substitute
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low
+- low",True,False,False,True,"Title: Tuscan-style chicken with fresh herbs
+
+Ingredients:
+- chicken skin
+- lemon juice
+- fresh ground black pepper
+- fresh cilantro
+- fresh sage leaves
+- fresh thyme
+- fresh rosemary
+- unsalted butter
+- fresh basil
+- fresh mozzarella cheese
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, buns, etc.).
+- Use high-protein substitutes ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Write the improved version of the chicken recipe.
+
+Response:
+Title: Tuscan-style chicken with fresh herbs
+
+Ingredients:
+- chicken skin
+- fresh lemon juice
+- fresh ground black pepper
+- fresh cilantro
+- fresh sage leaves
+- fresh thyme
+- fresh rosemary
+- fresh mozzarella cheese
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns,",True,True,True,False
+327357,le creuset french style roast chicken with tarragon cream sauce,chicken,roasting chickens; dried tarragon; salt and pepper; hot chicken stock; heavy cream; cornstarch,"Title: Le Creuset French Style Ro Chicken with Tarragnée Cream Sauce
+
+Ingredients:
+
+- Roasting chickens
+- Dried tarrè
+- Salt and pepper
+- Hot chicken stock
+- Heavy cream
+- Cornstard
+- High-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Final Recipe:
+Title: Le Creuset French Style Ro Chicken with Tarragnée Cream Sauce
+
+Ingredients:
+
+- Roasting chickens
+- Dried tarrè
+- Salt and pepper
+- Hot chicken stock
+- Heavy cream
+- Cornstard
+- High-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.))
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid",True,True,True,False,"Title: lemon creuset French-style roast chicken with tarragon cream sauce
+
+Ingredients:
+- roasted chicken
+- fresh tarragon
+- lemon juice
+- olive oil
+- butter
+- heavy cream
+- chopped fresh parsley
+- fresh oregano
+- fresh thyme
+- lemon zest
+- fresh rosemary
+- fresh basil
+- lemon juice
+- heavy cream
+
+Goal:
+Write a version of this recipe that uses low-carb and high-protein flavors while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use low-carb sides.
+- Include lean protein sources.
+- Choose high-protein alternatives.
+
+Response:
+Title: lemon creuset French-style roast chicken with tarragon cream sauce
+
+Ingredients:
+- roasted chicken
+- fresh tarragon
+- lemon juice
+- olive oil
+- butter
+- heavy cream
+- fresh parsley
+- fresh oregano
+- fresh thyme
+- lemon zest
+- fresh rosemary
+- fresh basil
+- lemon juice
+- heavy cream
+
+Goal:
+Write a version of this recipe that uses low-carb and high-protein flavors while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use low-carb sides.
+- Include lean protein sources.",True,True,True,False
+207043,beef vindaloo   the real thing,beef,stewing beef; cumin seed; dried red chilies; peppercorn; fenugreek seeds; green cardamom pods; black mustard seeds; salt; demerara sugar; white wine vinegar; oil; onion; fresh ginger; garlic cloves; ground coriander; turmeric; warm water,"Title: Beef vindaloo   The Real Thing
+
+Ingredients:
+
+- stewing beef
+- cumin
+- dried red ch peppers
+- pepper
+- garlic
+- ground cori
+- turmeric
+- lemon
+- garlic cloves
+- ground
+- ground
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown
+- brown",True,False,False,True,"Title: beef vindaloo with cumin and black pepper
+Ingredients:
+- stewing beef
+- cumin seeds
+- dried red chilies
+- ground coriander
+- black pepper
+- lemon juice
+- white wine vinegar
+- olive oil
+- fresh ginger
+- ground cumin
+- ground coriander
+- fresh thyme
+- hot water
+
+Goal:
+Write a version of beef vindaloo that uses lean protein, avoid added sugars, avoid starchy carbs, and keeps the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns, bread, starchy carbs, etc.).
+- Use lean protein sources (cumin, black pepper, chicken, beef, lamb, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef, beef",True,True,False,False
+31748,apple glazed beef brisket,beef,boneless beef brisket; onion; garlic; cloves; water; apple jelly; dry white wine; dijon mustard; green onions; salt; black peppercorns; curry powder; parsley; tomatoes,"Title: Apple Grilled Beef瘦 Beef 
+
+Ingredients:
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: apple glazed beef brisket
+
+Ingredients:
+- boneless beef brisket
+- apple juice
+- brown sugar
+- unsalted butter
+- fresh thyme
+- ground ginger
+- lemon juice
+- olive oil
+- apple jelly
+- dried white wine
+- fresh oars
+- salt
+- black pepper
+- cumin
+- paprika
+- apple pie filling
+- ground beef
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Response:
+Title: apple glazed beef brisket
+
+Ingredients:
+- boneless beef brisket
+- apple juice
+- brown sugar
+- unsalted butter
+- fresh thyme
+- ground ginger
+- lemon juice
+- olive oil
+- apple pie filling
+- ground beef
+
+Goal:
+rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns).
+- Choose high-protein swaps",True,True,True,False
+30514,yummy stuffed chicken breasts,chicken,boneless chicken breasts; breadcrumbs; celery; onion; mushroom; butter; chicken broth; salt and pepper; basil; oregano; garlic powder; toothpick,"Title:美味 stuffed chicken breast
+
+Ingredients:
+
+- boneless chicken breasts
+-瘦 chicken
+- bread
+- diced
+- chopped
+- celery
+- onion
+- mushrooms
+- ground
+- lemon
+- garlic
+- chicken broth
+- salt
+- pepper
+- honey
+- olive oil
+- vegetable
+- low-carb
+- low-protein swaps
+- Greek yogurt
+- cottage cheese
+- low乳
+- substitute
+- almond milk
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳
+- substitute
+- low乳",True,True,True,False,"Title: delicious stuffed chicken breasts with fresh herbs
+
+Ingredients:
+- boneless chicken breasts
+- olive oil
+- ground cumin
+- fresh basil
+- lemon juice
+- salt
+- unsalted butter
+- chopped fresh cilantro
+- ground black pepper
+- fresh basil
+- olive oil
+- chicken broth
+- diced tomatoes
+- fresh mozzarella cheese
+- ground beef
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this recipe.
+- Choose high-protein, low-carb options.
+
+Response:
+Title: delicious stuffed chicken breasts with fresh herbs
+
+Ingredients:
+- boneless chicken breasts
+- olive oil
+- ground cumin
+- fresh basil
+- lemon juice
+- ground black pepper
+- fresh cilantro
+- olive oil
+- chicken broth
+- diced tomatoes
+- fresh mozzarella cheese
+- ground beef
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this recipe.
+- Choose",True,True,True,False
+461837,two meat pot roast,beef,boneless beef roast; boneless pork roast; garlic cloves; cooking oil; salt and pepper; bay leaf; beef bouillon cube; water; onion; flour; potato; carrot,"Title: Two Meat Pot Ro
+
+Ingredients:
+
+- 1 boneless beef roast
+- 2 boneless pork roast
+-  garlic cloves
+- 烹饪油
+- 1/2量 lemon
+- 3 cloves minced garlic
+- 2 medium onions
+- 2 medium carrots
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+- 2 medium apples
+-",True,False,False,True,"Title: two meat pot roast with fresh herbs
+
+Ingredients:
+- boneless beef roast
+- boneless pork roast
+- garlic cloves
+- olive oil
+- ground black pepper
+- fresh herbs (e.g. rosemary, basil, oregano)
+- lemon juice
+- fresh herbs (e.g. rosemary, basil, oregano)
+- ground beef bouillon cube
+- water
+- fresh herbs (e.g. rosemary, basil, oregano)
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+
+Write the improved version of the recipe to be high-protein, low-carb while keeping the core flavor.",True,True,True,False
+48201,cheeseburger   fries casserole,beef,lean ground beef; salt; pepper; garlic; cream of mushroom soup; cheddar cheese soup; french fries; cheddar cheese,"Title: Cheeseburger Fries Casserole
+
+Ingredients:
+
+-瘦 meat
+- Salt
+- pepper
+- Garlic
+- Cream of mushroom soup
+- Cheddar cheese soup
+- French fries
+- Cheddar cheese
+- Greek yogurt
+- low-carb
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps (Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Ingredients:
+
+-瘦 meat
+-瘦 ground beef
+- Salt
+- pepper
+- Garlic
+- Cream of mushroom soup
+- Cheddar cheese soup
+- French fries
+- Cheddar cheese
+- Greek yogurt
+- low-carb
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomato, buns).
+- Choose high-protein swaps (Greek yogurt, cottage cheese, legumes in moderation, etc.)",True,True,True,False,"Title: cheeseburger fries casserole with fresh herbs
+
+Ingredients:
+- lean ground beef
+- salt
+- pepper
+- cream of mushroom soup
+- cheddar cheese
+- fresh basil
+- lemon juice
+- sour cream
+- cheddar cheese
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, chicken breast, etc.).
+
+Response:
+Title: cheeseburger fries casserole with fresh herbs
+
+Ingredients:
+- lean ground beef
+- salt
+- pepper
+- cream of mushroom soup
+- cheddar cheese
+- fresh basil
+- lemon juice
+- sour cream
+- cheddar cheese
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, chicken breast, etc.).",True,True,True,False
+19764,chinese beef and tomatoes,beef,tomatoes; oil; flank steaks; green pepper; soy sauce; onion; dry sherry; beef bouillon cube; garlic; boiling water; ground ginger; cornstarch; ground black pepper; water,"Title: Chinese Beef and Tomatoes
+
+Ingredients:
+
+- Tom
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: Chinese Beef and Tomatoes
+
+Ingredients:
+- chicken breasts
+- fresh tomatoes
+- soy sauce
+- ground ginger
+- unsalted butter
+- minced garlic
+- fresh cilantro
+- soy sauce
+- fresh lime juice
+- ground black pepper
+- low-carb cornstarch
+- low-carb sour cream
+- low-carb mayonnaise
+- ground black pepper
+- vegetable broth
+- fresh oyster shells
+- low-carb beef bouillon cubes
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, buns, etc.).
+- Use low-carb substitutes (eggs, chicken, beef, tofu, mushrooms, etc.).
+
+Write the improved version of the recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, buns, etc.).
+- Use low-carb substitutes (eggs, chicken, beef, tofu, mushrooms, etc.).",True,True,True,False
+202087,chicken with walnuts  bell peppers  capsicum  and green onions,chicken,chicken breasts; green bell peppers; green onions; walnuts; soy sauce; chinese wine; cornstarch; water; fresh ginger; red chili pepper flakes; sugar; vegetable oil,"Title: Chicken with Walnuts  Bell peppers  caps茄  and Green onions
+
+Ingredients:
+
+- chicken breasts
+- green bell peppers
+- green onions
+- walnuts
+- soy sauce
+- Chinese wine
+- cornstard
+- water
+- fresh ginger
+- red chili pepper flakes
+- sugar
+- vegetable oil
+- low-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+Instructions:
+
+1. In a bowl, mix together ingredients. Add chicken breasts, green bell peppers, green onions, walnuts, soy sauce, Chinese wine, cornstard, water, fresh ginger, red chili pepper flakes, sugar, vegetable oil. Set aside for the protein protein swap. Adjust the protein protein swap to low-carb while keeping the core flavor. Use low-carb protein swaps instead of chicken or beef or chicken or beef or chicken or beef or chicken or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef or beef",True,True,True,False,"Title: Chicken with walnuts  Bell peppers  capsum  and green onions
+
+Ingredients:
+- chicken breasts
+- green bell peppers
+- red onion
+- walnuts
+- soy sauce
+- fresh ginger
+- unsalted butter
+- lemon juice
+- olive oil
+- salt
+- ground black pepper
+- fresh cilantro
+- fresh lime juice
+- fresh cilantro leaves
+- fresh chives
+- organic sweeteners
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs (buns, bread, rice, potatoes, etc.).
+- Choose high-protein, low-carb options.
+
+Response:
+Title: Chicken with walnuts  Bell peppers  capsum  and green onions
+
+Ingredients:
+- chicken breasts
+- green bell peppers
+- red onion
+- walnuts
+- soy sauce
+- fresh ginger
+- lemon juice
+- fresh cilantro
+- fresh cilantro leaves
+- organic sweeteners
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.",True,True,True,False
+78729,quick italian ground beef dinner,beef,lean ground beef; hamburger helper mix for beef pasta; garlic; onion; parmesan cheese; hot water; mozzarella cheese; chopped tomato; green bell pepper; dried oregano,"Title: Quick Italian Gr Beef Dinner
+
+Ingredients:
+
+- 瘦 ground beef
+- 2 medium ground beef
+- 1 medium ground beef
+- 1/2 medium ground beef
+- 1/2 medium ground beef
+- 1/2 medium ground beef
+- 1/2 medium ground beef
+- 1/2 medium ground
+- 1/2 medium ground
+- 1/2 medium ground
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/2
+- 1/",True,False,False,True,"Title: slow Italian ground beef pizza with fresh basil and mozzarella cheese
+
+Ingredients:
+- lean ground beef
+- ground beef mixture
+- fresh basil
+- olive oil
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- fresh basil
+- olive oil
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- fresh basil
+- olive oil
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+- ground beef
+-",True,False,False,True
+403133,spanish chicken,chicken,dried ancho chile; chicken stock; olive oil; onions; celery ribs; garlic cloves; bay leaves; tomatoes; ground coriander; ground cumin; ground cinnamon; ground cloves; salt & freshly ground black pepper; chicken; fresh parsley,"Title: Spanish Chicken
+
+Ingredients:
+
+- 1 2 3 4 5 6 7 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9",True,False,False,True,"Title: Spanish Chicken with Cumin and Salt
+
+Ingredients:
+- boneless chicken breast
+- chicken stock
+- ground cumin
+- ground cumin
+- fresh cilantro
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- fresh cilantro
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- fresh cilantro
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground cumin
+- ground c",True,False,False,True
+235200,pipian verde   mexico,pork,pork butt; garlic cloves; peppercorns; tomatillos; serrano chilies; vegetable oil; pumpkin seeds; salt; epazote leaves,"Title: Piping green: Mexico
+
+Ingredients:
+- pork meat
+- garlic cloves
+- pepper
+- tomatillos
+- sach chili
+- vegetable oil
+- pumpkin seeds
+- salt
+- epzote leaves
+- low-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Final Recipe:
+Title: Piping green: Mexico
+
+Ingredients:
+- pork meat
+- garlic cloves
+- pepper
+- tomatillos
+- sach chili
+- vegetable oil
+- pumpkin seeds
+- salt
+- epzote leaves
+- low-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+ goals:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (",True,True,True,False,"Title: piquanized green beans with lime juice
+
+Ingredients:
+- pork belly
+- fresh lime juice
+- cumin
+- pepper flakes
+- ground black pepper
+- fresh cilantro
+- fresh mint leaves
+- olive oil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response:
+Title: piquanized green beans with lime juice
+
+Ingredients:
+- pork belly
+- fresh lime juice
+- cumin
+- fresh cilantro
+- fresh mint leaves
+- olive oil
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Response:
+Title: piquanized green beans with",True,True,True,False
+364196,wick fowler s authentic texas chili    best chili in texas,beef,ground beef; tomato juice; diced tomatoes; onion; bell pepper; garlic cloves,"Title: Wick F仆 S Authentic Texas chili Best chili in Texas
+
+Ingredients:
+
+- Ground beef
+- Tomato juice
+- diced tomatoes
+- Onion
+- Bell pepper
+- Garlic cloves
+- Low-scarb protein swaps
+- Greek yogurt
+- cottage cheese
+- lemon
+- Honey
+- Honey
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋
+- Apple醋",True,True,False,False,"Title: wick fowl s authentic Texas chili with fresh lime juice, diced tomatoes, and ground beef
+
+Ingredients:
+- ground beef
+- diced tomatoes
+- fresh lime juice
+- ground cumin
+- ground black pepper
+- ground fowl
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use low-carb sides.
+- Choose lean protein.
+
+Response:
+Title: wick fowl s authentic Texas chili with fresh lime juice, diced tomatoes, and ground beef",True,True,True,False
+74738,tilapia with salsa butter,,"tilapia fillet; butter; salsa; lime, zest of; garlic; cumin","Title: tilapia with salsa
+
+Ingredients:
+
+- tilapia fil
+- 1/2
+- butter
+- salsa
+- lime, garlic
+- cumin
+
+Objective:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+Title: untilapia with salsa
+
+Ingredients:
+
+- tilapia fil
+- 1/2
+- butter
+- salsa
+- lime, garlic
+- cumin
+
+Objective:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+Title: untilapia with salsa
+
+Ingredients:
+
+- tilapia fil
+- 1/2
+- 1/2
+- lemon
+-",True,True,True,False,"Title: tilapia with salsa butter
+
+Ingredients:
+- tilapia fillets
+- butter
+- salsa
+- lime juice
+- cumin
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns).
+
+Write the improved version steps.
+
+Response:
+Title: tilapia with salsa butter
+
+Ingredients:
+- tilapia fillets
+- butter
+- salsa
+- lime juice
+- cumin
+
+Goal:
+Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns).",True,True,True,False
+136443,low fat creamy baked salmon,salmon,salmon fillets; nonfat sour cream; fat-free mayonnaise; flour; lemon juice; dill weed; fat free cream cheese; garlic clove; white wine; salt; pepper; paprika,"Title: Low Fat Creamy Baked Salmon
+
+Ingredients:
+
+- salmon fillets
+- nonfat sour cream
+- fat-free mayonnaise
+- low-scarb alternative
+- low-carb
+- high-protein swaps
+- lemon juice
+- dill weed
+- low-f糖
+- vegetable oil
+- salt
+- pepper
+- paprika
+- low-carb
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns)
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+
+Title: Low Fat Creamy Baked salmon
+
+Ingredients:
+
+- salmon fillets
+- nonfat sour cream
+- low-scarb alternative
+- low-carb
+- high-protein swaps
+- lemon juice
+- dill weed
+- low-f糖
+- vegetable oil
+- salt
+- pepper
+- paprika
+- low-carb
+- low-carb
+- high-protein swaps
+- low-scarb alternatives
+- low-scarb",True,True,True,False,"Write the improved version steps with added lean protein, avoid added sugars, avoid starchy carbs, use low-carb sides.",False,True,True,False
+395166,orange chicken almondine,chicken,boneless skinless chicken breasts; italian dressing; chicken broth; orange juice; brown sugar; cornstarch; soy sauce; sliced almonds,"Title: Orange Chicken Aline
+
+Ingredients:
+
+- 
+
+1 
+
+2",True,False,False,True,"Title: orange chicken aline
+
+Ingredients:
+- boneless skinless chicken breasts
+- lemon juice
+- olive oil
+- salt
+- ground black pepper
+- unsalted butter
+- fresh orange juice
+- chopped almonds
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs ( bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, lean beef in moderation, etc.).
+
+Response:
+Title: orange chicken aline
+
+Ingredients:
+- boneless skinless chicken breasts
+- lemon juice
+- olive oil
+- salt
+- ground black pepper
+- unsalted butter
+- fresh orange juice
+- chopped almonds
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use high-protein swaps ( Greek yogurt, cottage cheese, lean beef in moderation, etc.).",True,True,True,False
+96934,pork shirataki,pork,pork chops; fresh ginger; garlic cloves; soy sauce; hoisin sauce; dark sesame oil; honey; red pepper flakes; salt and pepper; cornstarch; yellow bell pepper; onion; shirataki noodles,"Title: Pork Shirataki
+
+Ingredients:
+
+- pork chops
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: pork shirataki
+
+Ingredients:
+- pork chops
+- fresh ginger
+- garlic cloves
+- soy sauce
+- hoisin sauce
+- sweet pepper
+- ground beef
+- boneless pork chops
+- apple juice
+- chicken broth
+- sour cream
+- unsalted butter
+- fresh cilantro
+- lemon juice
+- red pepper flakes
+- low-carb sides
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tomatoes, buns, etc.).
+- Use low-carb sides.
+
+Response:
+Title: pork shirataki
+
+Ingredients:
+- pork chops
+- fresh ginger
+- garlic cloves
+- soy sauce
+- sweet pepper
+- low-carb sides
+- ground beef
+- boneless pork chops
+- apple juice
+- chicken broth
+- sour cream
+- low-carb sides
+
+Goal:
+rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta",True,True,True,False
+85631,pork taco meat,pork,pork steak; oil; chili powder; salt; pepper; tomato sauce; water,"Title: Pork T bacon meat
+
+Ingredients:
+
+- pork steak
+- 2 tbsp
+- olive
+- chili powder
+- salt
+- pepper
+- tomato sauce
+- water
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor by using high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.).
+- Instead of high-protein swaps, use alternative sources such as protein powders or plant-based alternatives like protein powder or protein powder substitute.
+
+Ingredients:
+
+- pork steak
+- 2 tbsp
+- olive
+- chili powder
+- salt
+- pepper
+- tomato sauce
+- water
+
+Goal:
+Rewrite this recipe to be high-protein and low-carb while keeping the core flavor by using high-protein swaps ( Greek yogurt, cottage cheese, legumes in moderation, etc.)
+
+
+Instructions:
+Title: Pork T bacon meat
+
+Ingredients:
+
+- pork steak
+- 2 tbsp
+- olive",True,True,True,False,"Title: pork tacos with chili sauce
+
+Ingredients:
+- pork steak
+- chili powder
+- ground black beans
+- lime juice
+- olive oil
+- chili sauce
+- salsa
+- sour cream
+- diced tomatoes
+- ground beef
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Response:
+Title: pork tacos with chili sauce
+
+Ingredients:
+- pork steak
+- chili powder
+- ground black beans
+- lime juice
+- olive oil
+- chili sauce
+- salsa
+- ground beef
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).",True,True,True,False
+101209,pork tenderloin piquant,pork,pork tenderloin; dijon mustard; bourbon; fresh lime juice; salt; ground allspice; ground black pepper; dark brown sugar,"Title: Pork Tj
+
+Ingredients:
+
+- pork tenderloin
+- bone
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: Pork tenderloin with lemon juice
+
+Ingredients:
+- pork tenderloin
+- dijon mustard
+- fresh lime juice
+- unsalted butter
+- lemon juice
+- salt
+- ground allspice
+- ground black pepper
+- fresh lime juice
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (面包, pasta, rice, potatoes, tortillas, buns).
+
+Write the improved version of the pork tenderloin with lemon juice.",True,True,True,False
+367839,asian barbecued pork tenderloin,pork,orange juice; splenda granular; light soy sauce; hoisin sauce; sesame oil; ginger; pork tenderloin,"Title: Asian Bar C Beef P T R
+Ingredients:
+
+- Orange juice
+- Sp lemon gran
+- Light soy sauce
+- Hoisin sauce
+- Ginger
+- P T R
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup
+- 1/2 cup",False,False,False,False,"Title: Asian barbecued pork tenderloin
+
+Ingredients:
+- orange juice
+- white vinegar
+- fresh ginger
+- soy sauce
+- ground black pepper
+- unsalted butter
+- boneless pork tenderloin
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, tortillas, buns).
+
+Write the improved version of the recipe to be high-protein, low-carb while keeping the core flavor.
+
+Response:
+Title: Asian barbecued pork tenderloin
+
+Ingredients:
+- orange juice
+- white vinegar
+- fresh ginger
+- soy sauce
+- ground black pepper
+- boneless pork tenderloin
+
+Goal:
+ Rewrite this recipe to be high-protein, low-carb while keeping the core flavor.
+
+Constraints:
+- Keep or increase lean protein.
+- Avoid added sugars.
+- Avoid starchy carbs (bread, pasta, rice, potatoes, buns).",True,True,True,False
+175939,very easy chicken piccata,chicken,flour; boneless skinless chicken breast halves; salt and pepper; vegetable oil; garlic; chicken broth; lemon; lemon juice; capers; unsalted butter; fresh parsley,"Title: very easy chicken pch土豆
+
+Ingredients:
+- 1/2
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-",True,False,False,True,"Title: very easy chicken piccata
+
+Ingredients:
+- ground chicken breasts
+- olive oil
+- fresh basil leaves
+- lemon juice
+- salt
+- pepper
+- chicken broth
+- fresh cilantro
+- lemon juice
+- chopped fresh parsley
+
+Goal:
+Write a modified version of this recipe to be high-protein, low-carb, while keeping the core flavor.
+
+Constraints:
+- Avoid added sugars.
+- Use lean protein sources.
+- Avoid starchy carbs in this recipe.
+- Choose high-protein swaps ( Greek yogurt, cottage cheese, chicken breast in moderation, etc.).",True,True,True,False

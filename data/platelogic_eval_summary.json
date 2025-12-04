@@ -1,0 +1,15 @@
+{
+  "n_eval": 50,
+  "base": {
+    "pass_rate": 0.46,
+    "protein_retention_rate": 0.82,
+    "high_carb_violation_rate": 0.38,
+    "hp_lc_mention_rate": 0.32
+  },
+  "lora": {
+    "pass_rate": 0.1,
+    "protein_retention_rate": 0.92,
+    "high_carb_violation_rate": 0.9,
+    "hp_lc_mention_rate": 0.84
+  }
+}
