@@ -229,13 +229,3 @@ A rigorous evaluation pipeline that reveals both strengths and limitations
 
 This isn’t “just a recipe bot”—it’s a practical showcase of applied NLP engineering with real constraint-checking and model quality analysis.
 
----
-
-If you want, I can also produce:
-
-- A **short version** for PyPI / HuggingFace  
-- A **professional README banner**  
-- A **diagram** of the pipeline  
-- A **portfolio-friendly summary section**
-
-Just let me know which style you want.
