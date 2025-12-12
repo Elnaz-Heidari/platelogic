@@ -1,231 +1,230 @@
-# PlateLogic 🍽️  
-### High-Protein, Low-Carb Recipe Rewriting with Data Annotation, QA, and LoRA Fine-Tuning
+# PlateLogic  
+## Constraint-Aware Recipe Rewriting with NLP & LoRA Fine-Tuning
 
-PlateLogic is an end-to-end NLP pipeline built to demonstrate practical skills in:
+PlateLogic is a small, laptop-friendly NLP project that demonstrates an end-to-end pipeline for **data cleaning, annotation, QA, fine-tuning, and evaluation** of a language model under **explicit nutritional constraints**.
 
-- Data cleaning & preprocessing  
-- Structured manual annotation  
-- Rule-based teacher modeling  
-- Quality-assurance workflows  
-- LoRA fine-tuning on a compact LLM  
-- Model evaluation on held-out data  
+The task is to rewrite cooking recipes so that they become **high-protein and low-carb**, while preserving the core flavor and main protein source.
 
-The task: **rewrite recipes into high-protein, low-carb versions while preserving core flavor**.
-
-This project intentionally uses small models and lightweight methods so it can run on a standard laptop.
+This project emphasizes **model behavior evaluation and QA**, not just generation.
 
 ---
 
-## 📁 Project Structure
-.
-├── data/
-│ ├── platelogic_annotation_ready.csv # cleaned dataset (~9k recipes)
-│ ├── platelogic_annotation_pool_300.csv # sampled pool for annotation
-│ ├── platelogic_annotated_300.csv # unified human + rule-based annotations
-│ ├── training_pairs.jsonl # instruction–response training data
-│ ├── platelogic_eval_results.csv # per-sample evaluation (base vs LoRA)
-│ └── platelogic_eval_summary.json # aggregate evaluation metrics
-│
-├── models/
-│ └── platelogic_qwen_lora/ # fine-tuned LoRA checkpoint
-│
-├── notebooks/
-│ ├── 01_cleaning.ipynb # dataset parsing + filtering
-│ ├── 02_annotation.ipynb # manual + rule-based annotation
-│ ├── 03_finetune_lora.ipynb # LoRA training on Qwen1.5-0.5B-Chat
-│ └── 04_evaluation.ipynb # evaluation on held-out set
-│
-└── app.py (optional future step)
+## 🔍 Project Objectives
+
+The goal of PlateLogic is to showcase practical ML engineering skills:
+
+- Structured data cleaning and filtering  
+- Manual and rule-based annotation  
+- Constraint-driven QA and disagreement analysis  
+- LoRA fine-tuning on a small LLM  
+- Quantitative evaluation of base vs fine-tuned models  
+- Transparent reporting of failures and limitations  
 
 ---
 
-## 1. 🧹 Dataset Cleaning
+## 🧠 Task Definition
 
-Starting from the **Food.com RAW_recipes** dataset:
-
-- Parsed lists (ingredients, steps, nutrition)
-- Converted nutrient %DV → grams  
-- Applied structural filters:  
-  - 3–25 ingredients  
-  - ≥3 steps  
-  - 150–900 kcal  
-  - 10–120 g protein, 0–80 g carbs  
-- Applied ratio constraints:  
-  - ≥25% calories from protein  
-  - ≤25% calories from carbs  
-- Applied semantic filters to detect protein anchors  
-- Removed duplicate/suspicious entries
+**Input:**  
+A cooking recipe (title, ingredients, steps)
 
 **Output:**  
-`platelogic_annotation_ready.csv` (~9,192 recipes)
+A rewritten version of the recipe that:
+
+- Preserves the main protein  
+- Avoids high-carb and starchy ingredients  
+- Avoids added sugars  
+- Maintains the core flavor profile  
 
 ---
 
-## 2. 📝 Annotation Pipeline
-
-### **Sampling**
-Stratified recipes by protein amount → sampled 300 examples.
-
-Output:  
-`platelogic_annotation_pool_300.csv`
-
-### **Manual Annotation (100 recipes)**
-Two batches of 50 each:
-
-- protein & carb sources  
-- macro categories  
-- constraint compliance  
-- modification potential  
-- improved cooking steps  
-- complexity score  
-
-### **Rule-Based Teacher**
-A lightweight rule-based annotator checked:
-
-- protein presence  
-- high-carb violations  
-- constraint adherence  
-
-A disagreement report (`platelogic_QA_report.csv`) showed ~311 inconsistencies, used for labeling QA.
-
-### **Unified Dataset**
-Human annotations override rule-based outputs →  
-`platelogic_annotated_300.csv`
+## 🧱 Pipeline Overview
+```
+Raw Recipes (Food.com)
+        ↓
+Data Cleaning & Filtering
+        ↓
+Annotation Pool Sampling
+        ↓
+Manual + Rule-Based Annotation
+        ↓
+QA & Disagreement Analysis
+        ↓
+Training Pair Construction
+        ↓
+LoRA Fine-Tuning (Qwen 0.5B)
+        ↓
+Evaluation (Base vs LoRA)
 
 ---
 
-## 3. 🧪 Building Training Data
+## 📁 Repository Structure
+platelogic/
+├── data/
+│   ├── platelogic_annotation_ready.csv
+│   ├── platelogic_annotated_300.csv
+│   ├── platelogic_eval_results.csv
+│   └── platelogic_eval_summary.json
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_annotation_and_QA.ipynb
+│   ├── 03_finetune_lora.ipynb
+│   └── 04_evaluation.ipynb
+│
+├── models/
+│   └── platelogic_qwen_lora/
+│
+├── requirements.txt
+└── README.md
 
-Every annotated row was converted into an **instruction–response** pair:
+## 🧹 Data Cleaning & Filtering
 
-You are a cooking assistant that rewrites recipes to be high-protein and low-carb.
+Dataset: Food.com RAW_recipes (Kaggle)
 
-Instruction:
-{input block}
+Parsed structured fields using ast.literal_eval
 
-Response:
-{improved cooking steps}
+Converted nutrition values into grams
 
-Saved as:  
-`training_pairs.jsonl` (300 examples)
+Applied strict structural and nutritional filters:
 
----
+3–25 ingredients
 
-## 4. ⚙️ LoRA Fine-Tuning
+≥3 steps
 
-Fine-tuned **Qwen1.5-0.5B-Chat** with LoRA:
+150–900 kcal
 
-- Target modules: q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj  
-- LoRA hyperparameters:  
-  - r=8  
-  - alpha=16  
-  - dropout=0.05  
-- Training runtime: ~1 epoch on CPU  
-- Loss:  
-  - train_loss ≈ 1.09  
-  - eval_loss ≈ 0.31  
+10–120g protein
 
-Checkpoint saved:  
-`models/platelogic_qwen_lora/checkpoint-67`
+≤80g carbs
 
----
+≥25% calories from protein
 
-## 5. 📊 Evaluation (Base vs LoRA)
+≤25% calories from carbs
 
-Held-out sample size: **50 recipes**
+Semantic filtering for protein anchors
 
-Evaluation checks:
+Result:
+~9,192 clean, high-quality recipes ready for annotation.
 
-- **Protein retention**  
-- **High-carb ingredient violations**  
-- **Mentions of high-protein/low-carb cues**  
-- **Overall pass rate** (keeps protein AND avoids high-carb ingredients)
+✍️ Annotation & QA
+Manual Annotation
 
-### **Results Summary**
+100 recipes manually annotated
 
-```json
-{
-  "n_eval": 50,
-  "base": {
-    "pass_rate": 0.46,
-    "protein_retention_rate": 0.82,
-    "high_carb_violation_rate": 0.38,
-    "hp_lc_mention_rate": 0.32
-  },
-  "lora": {
-    "pass_rate": 0.10,
-    "protein_retention_rate": 0.92,
-    "high_carb_violation_rate": 0.90,
-    "hp_lc_mention_rate": 0.84
-  }
-}
-Interpretation
+Labels include:
 
-The base model successfully followed constraints ~46% of the time.
+Protein and carb sources
 
-The LoRA model dramatically improved protein retention, but
+Constraint compliance
 
-Introduced high-carb violations in 90% of outputs
+Modification potential
 
-Spoke extensively about “high-protein” and “low-carb” without enforcing constraints
+Rewritten low-carb steps
 
-Overall constraint compliance dropped to 10%
+Complexity score
 
-In other words:
-the LoRA overfit stylistic cues rather than learning nutritional constraints.
+Rule-Based Teacher
 
-This evaluation step is crucial, and it shows the importance of:
+Ingredient scanning
 
-dataset consistency
+Macro-based constraint checks
 
-more fine-grained supervision
+Automatic labeling for consistency
 
-potentially larger models for rule-heavy tasks
+QA Report
 
-6. 🚧 Next Steps
-A. Improve the training dataset
+Compared human vs rule-based labels
 
-Clean & enforce constraints in all outputs
+Identified ~300 disagreement cases
 
-Expand dataset to 800–1500 examples
+Demonstrates annotation QA and error analysis
 
-Strengthen negative examples
+🔧 Model Fine-Tuning
 
-B. Retrain LoRA with stronger hyperparameters
+Base model: Qwen1.5-0.5B-Chat
 
-Use r=16, alpha=32
+Fine-tuning method: LoRA
 
-Increase dropout to 0.1
+Target modules:
 
-C. Upgrade to a larger base model
+q_proj, k_proj, v_proj, o_proj
 
-Qwen 1.5B or 4B will generalize much better
+gate_proj, up_proj, down_proj
 
-D. Add rule-based self-checking
+Training setup:
 
-Regenerate if the model violates constraints.
+~300 instruction–response pairs
 
-7. 🧑‍🍳 Optional UI
+CPU-friendly training
 
-A lightweight Gradio app can wrap the model:
+Prompt format preserved exactly during evaluation
 
-User enters ingredients
+📊 Evaluation Results
 
-Model outputs the rewritten high-protein/low-carb steps
+Evaluation performed on 50 held-out recipes (not used in training).
 
-Includes a rule-based violation warning
+Metrics
+Metric	Base Model	LoRA Model
+Pass Rate (all constraints)	46%	10%
+Protein Retention Rate	82%	92%
+High-Carb Violation Rate	38%	90%
+HP/LC Cue Mentions	32%	84%
+Key Findings
 
-⭐ Summary
+The LoRA model learned stylistic cues (“high-protein”, “low-carb”)
 
-PlateLogic demonstrates:
+Protein retention improved
 
-A complete ML workflow from data → annotation → training → evaluation
+Constraint compliance worsened significantly
 
-Integration of human labels + rule-based QA
+High-carb ingredients were frequently reintroduced
 
-LoRA fine-tuning on a compact model
+This highlights a common failure mode of small LLM fine-tuning:
+surface-level compliance without rule generalization.
 
-A rigorous evaluation pipeline that reveals both strengths and limitations
+🧪 Why This Matters
 
-This isn’t “just a recipe bot”—it’s a practical showcase of applied NLP engineering with real constraint-checking and model quality analysis.
+Rather than hiding poor results, this project demonstrates:
 
+Proper held-out evaluation
+
+Explicit failure analysis
+
+Quantitative QA metrics
+
+Honest reporting of model limitations
+
+This mirrors real-world ML workflows where evaluation often reveals unexpected regressions.
+
+🚧 Limitations & Future Work
+
+Expand training dataset (≥1k examples)
+
+Stronger constraint enforcement in labels
+
+Higher LoRA rank and dropout
+
+Larger base model (1.5B+)
+
+Post-generation rule-based filtering
+
+Optional Gradio demo UI
+
+🛠 Tech Stack
+
+Python
+
+Pandas, NumPy
+
+Hugging Face Transformers
+
+PEFT (LoRA)
+
+Jupyter Notebooks
+
+👤 Author
+
+Fatemeh (Elnaz) Heidari
+NLP / Data Annotation / QA
+GitHub: https://github.com/Elnaz-Heidari
+LinkedIn: https://www.linkedin.com/in/fatemeh-heidari-69900284
